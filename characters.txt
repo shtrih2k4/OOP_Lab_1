@@ -1,0 +1,9 @@
+Harry Potter
+Philosopher's_Stone Chamber_of_Secrets Prisoner_of_Azkaban Goblet_of_Fire Order_of_the_Phoenix Half-Blood_Prince Deathly_Hallows
+1 1 1 1 1 1 1
+Tom Sawyer
+The_Adventures_of_Tom_Sawyer Adventures_of_Huckleberry_Finn Tom_Sawyer_Abroad Tom_Sawyer_Detective
+1 2 1 1
+Huckleberry Finn
+Adventures_of_Huckleberry_Finn The_Adventures_of_Tom_Sawyer
+1 2
